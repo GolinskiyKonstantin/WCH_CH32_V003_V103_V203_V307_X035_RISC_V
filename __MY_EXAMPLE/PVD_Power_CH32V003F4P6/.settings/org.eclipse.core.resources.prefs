@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//Peripheral/inc/ch32v00x_exti.h=GBK
+encoding//Peripheral/inc/ch32v00x_gpio.h=GBK
+encoding//Peripheral/inc/ch32v00x_pwr.h=GBK
+encoding//Peripheral/src/ch32v00x_exti.c=GBK
+encoding//Startup/startup_ch32v00x.S=GBK
+encoding//User/main.c=GBK
+encoding//User/system_ch32v00x.c=UTF-8
